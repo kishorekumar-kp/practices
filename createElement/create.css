@@ -1,0 +1,47 @@
+*{
+    background-color: rgb(201, 242, 228);
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: rgb(242, 251, 187);
+    justify-content: center;
+    justify-items: center;
+    width: 700px;
+    padding: 15px;
+    border: 10px;
+    margin: 10px;
+    text-align: center;
+    position: relative;
+    left: 300px;
+
+   
+}
+
+.ipdata{
+    width: 350px;
+    padding: 5px;
+    margin: 10px;
+    outline: none;
+    text-align: center;
+    background-color: aliceblue;
+}
+.btn{
+    padding: 5px;
+    margin: 10px;
+    background-color: cadetblue;
+    text-align: center;
+}
+.container{
+    display: flex;
+    width: 500px;
+    justify-content:center;
+    align-content: center;
+    text-align: center;
+    position: relative;
+    left: 100px;
+    background-color: aliceblue;
+    
+
+}
