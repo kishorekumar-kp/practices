@@ -1,0 +1,38 @@
+*{
+    background-color: aquamarine;
+}
+
+.conatainer > div{
+    margin: 0;
+    padding: 20px 0px;
+    border: 20px;
+    text-align: center;
+}
+.navbar{
+    background-color: blueviolet;
+}
+.content{
+    width: 33.33%;
+    height: 600px;
+    float: left;
+    background-color: chartreuse;
+
+
+}
+.sidebar{
+    width: 33.33%;
+    height: 600px;
+    float: left;
+    background-color: violet;
+}
+.dash{
+    width: 33.33%;
+    height: 600px;
+    float: left;
+    background-color: blanchedalmond;
+
+}
+.footer{
+    clear: both;
+    background-color: coral;
+}
