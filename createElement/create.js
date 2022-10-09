@@ -4,10 +4,6 @@ const div=document.createElement("div");
 div.className="container";
 body.append(div);
 
-
-
-
-
 //input value
 const inputdata=document.createElement("input");
 inputdata.className="ipdata";
